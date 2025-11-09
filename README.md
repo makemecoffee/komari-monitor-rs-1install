@@ -5,7 +5,6 @@
 ### 安装
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/makemecoffee/komari-monitor-rs-1install/refs/heads/main/install.sh)
-
 ```
 ##  致谢
 
