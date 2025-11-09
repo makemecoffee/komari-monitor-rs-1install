@@ -1,6 +1,6 @@
 # Komari Monitor RS 一键安装脚本
 
-一个简单易用的 Komari Monitor RS 监控代理一键安装/卸载脚本，支持多种 Linux 发行版。
+一个简单易用的 Komari Monitor RS 监控代理一键安装/卸载脚本，支持多种 x86框架 Linux 发行版。
 
 ### 安装
 ```
